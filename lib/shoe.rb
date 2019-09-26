@@ -16,5 +16,3 @@ class Shoe
   
  
 end
-
-my_array.push(item1) unless my_array.include?(item1)
